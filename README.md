@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Simpsons Character Classification Kaggle competition for the Computer Vision course! In this competition, your task is to build a model that accurately classifies images of Simpsons characters. The goal is to achieve the highest accuracy on the provided dataset.
+Welcome to the Simpsons Character Classification Kaggle competition for the Computer Vision course! In this competition, your task is to build a model that accurately classifies images of Simpsons characters. The goal is to achieve the highest macro F1 score on the provided dataset.
 
 ### Getting Started
 
